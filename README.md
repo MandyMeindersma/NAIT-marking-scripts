@@ -9,6 +9,7 @@ Scripts to unzip students files, validate their html and check their outlines.
 ### To Get Environment running:
 * `pip install requirements.txt` in the command line
 * save a class list (csv file) in the same directory of this repository
+* save required zips from moodle in the same directory of this repository
 * change the all caps variables in the python file
 
 # Scripts:
