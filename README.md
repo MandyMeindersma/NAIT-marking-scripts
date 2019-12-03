@@ -10,6 +10,7 @@ Scripts to unzip students files, validate their html and check their outlines.
 * `pip install requirements.txt` in the command line
 * save a class list (csv file) in the same directory of this repository
 * save required zips from moodle in the same directory of this repository
+* Unzip the big file with all the students (but not the actual students files themselves - thats what the script is for)
 * change the all caps variables in the python file
 
 # Scripts:
